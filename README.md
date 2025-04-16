@@ -1,1 +1,1 @@
-# Lungs-cancer-predictiion
+# Lungs-cancer-prediction
